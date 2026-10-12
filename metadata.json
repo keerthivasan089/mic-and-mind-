@@ -1,0 +1,6 @@
+{
+  "name": "Mic & Mind",
+  "description": "Official marketing website for Mic & Mind podcast featuring an animated video hero, scroll-linked progressive 3D fanned episode carousel, candid founder stories, and streaming audio player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
